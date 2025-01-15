@@ -27,3 +27,21 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+
+--------------------------
+Telepítés lépései:
+1. Alap projekt létrehozása (npm init vue@latest)
+2. Függőségek telepítése (npm i)
+3. Axios hozzáadása (npm i axios)
+3. JSON server hozzáadása (npm i json-server)
+4. Projekt indítása
+5. JSON server indítása (npx json-server db.json)
+Jó munkát!
+
+https://www.npmjs.com/package/json-server
+
+https://www.npmjs.com/package/vue-axios
+--------------------------
+

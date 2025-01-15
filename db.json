@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "task":"Tanulni"
+        },
+        {
+            "id":2,
+            "task":"Gyakorolnii"
+        }
+    ],
+    "users":[
+        {
+            "uId":1,
+            "name":"Róbert"
+        },
+        {
+            "uId":2,
+            "name":"Bálint"
+        }
+    ]
+}
